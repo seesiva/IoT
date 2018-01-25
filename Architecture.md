@@ -13,3 +13,5 @@
     ------------    |                                     ---------                 |-----Real-Time data streams          
     | Device3  |-----                                        ---
     ------------
+
+## Device-Cloud
