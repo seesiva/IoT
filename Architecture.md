@@ -10,6 +10,6 @@
     | Device2  |------------| Gateway   |---------|      Cloud Infra        |-------|
     ------------    |       -------------           |                    |          |-----Big Data Analytics
                     |                                ----|----------|----           |
-    ------------    |                                                               |-----Real-Time data streams                        
+    ------------    |                                                               |-----Real-Time data streams          
     | Device3  |-----
     ------------
