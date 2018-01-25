@@ -51,6 +51,7 @@
 * Ability to connect to different channels like (Google IoT, AWS IoT)
 * Channel Variables and 
 * Configurtion variables help switch between channels which is good in case of need for replicating data for mission critical systems across different channels
+* Need to extend the data points through the Channels and we might need to build application on top of it
 
 # Hardware Availability
 * Through Distributors https://www.mouser.com/new/helium/helium-starter-kits/

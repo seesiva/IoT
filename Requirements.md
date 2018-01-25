@@ -32,6 +32,8 @@
 7. Do we have a requirement to deactivate sensors if the product is operating on a battery ?
 8. Do we have a clarity on what data to be sent from the product ? (Examples ?)
 9. What are the key parameters to be managed from the device stand point (E.g., State, Interval)
+10. Proximity of the products being together ?
+11. We believe OTA is critical because it the product needs Bug Fixes, Save Costs, Scalability, Test New features, Deploy often scenarios
 
 ## Functional Requirements
 
@@ -54,4 +56,5 @@
 * Privacy controls
 ## Standards
 
-## 
+## References
+https://community.particle.io/t/exposing-data-to-cloud-project-architecture/12189
