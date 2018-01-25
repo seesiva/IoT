@@ -29,6 +29,9 @@
 4. Do we need to establish a seperate portal for the IoT/Connected product lines ?
 5. Do we have plan for developing an MVP (Minimum Viable product ) ?
 6. If yes, is it possible to get some insight on the MVP Planned ?
+7. Do we have a requirement to deactivate sensors if the product is operating on a battery ?
+8. Do we have a clarity on what data to be sent from the product ? (Examples ?)
+9. What are the key parameters to be managed from the device stand point (E.g., State, Interval)
 
 ## Functional Requirements
 

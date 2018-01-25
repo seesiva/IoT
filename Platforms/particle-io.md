@@ -1,4 +1,4 @@
-# IoT Platforms
+# Particle
 
 ## About 
 * Name: Particle.io
