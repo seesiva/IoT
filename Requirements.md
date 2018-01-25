@@ -26,12 +26,23 @@
 1. Who are the target customer segments ?
 2. Who are the target users who are going to use the connected furniture or connecting lighting ?
 3. What kind of Business Models are under evaluation ? (Example: SaaS based revenue models)
+4. Do we need to establish a seperate portal for the IoT/Connected product lines ?
+5. Do we have plan for developing an MVP (Minimum Viable product ) ?
+6. If yes, is it possible to get some insight on the MVP Planned ?
 
 ## Functional Requirements
 
 
 ## Choice of Protocols
+* MQTT
+* CoAP
 
+## Connectivity
+* Bluetooth
+* Cellular
+* LORA
+* WiFi
+* 
 
 ## Security Requirements
 * Encrypted logins and passwords 
