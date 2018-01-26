@@ -1,7 +1,11 @@
 # Requirements
+
+## Product Category
+Consumer Goods, Home Goods, Kitchen appliances
+
 ## Background
 * The products are typically used in Home, Workplace
-*
+* The products could be closely located
 
 ## Why its important for IoT Enabling the product
 * Responsive product behaviour
@@ -34,6 +38,11 @@
 9. What are the key parameters to be managed from the device stand point (E.g., State, Interval)
 10. Proximity of the products being together ?
 11. We believe OTA is critical because it the product needs Bug Fixes, Save Costs, Scalability, Test New features, Deploy often scenarios
+12. What are the risks involved in IoT Enabling the product ?
+13. Does our products through any privacy related risks ?
+14. Does the data collected from our product has value interms of revenue generation or creation ?
+15. What are the competitors doing in this space?
+16. Does adding AI capability would improve our competitiveness ?
 
 ## Functional Requirements
 
