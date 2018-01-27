@@ -20,3 +20,7 @@
 * NB-IoT
 * LoRA
 * SigFox
+
+### Characteristics
+* PSM - Power Saving Mode
+* eDRX - Extended Discontinous reception
