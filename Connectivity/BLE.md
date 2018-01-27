@@ -26,3 +26,7 @@ Bluetooth Low Energy
     #---------------#       |------Device3
 
 ## What is Bluetooth Mesh?
+* Formally launched in July 2017
+* Blueooth Mesh capability enables many-to-many (m:m) device communications and is optimized for creating large-scale device networks.
+
+### Mesh Network
