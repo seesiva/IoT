@@ -45,7 +45,8 @@ Bluetooth Low Energy
 mesh terminology, these parts are called `elements`. 
 * The process which transforms an unprovisioned device into a node is called `provisioning`.
 * Provisioning is a secure procedure which results in an unprovisioned device possessing a series of encryption keys and being known to the Provisioner device, typically a tablet or smartphone. One of these keys is called the network key or `NetKey` for short.
-* Bluetooth uses `Pub/Sub Messaging` pattern
+* Bluetooth uses `Pub/Sub 
+* Communication in the mesh network is `messageoriented` and many message types are defined, each with its own, unique opcode. Messages fall within one of two broad categories namely `acknowledged` or `unacknowledged messaging` pattern
 * Devices in a Bluetooth mesh network each have a set of independent `State` values, representing some condition of the device.
 * `Model` defines the specification on Device State, State Transitions, Messages and other associated behaviours.
 
