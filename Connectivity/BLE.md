@@ -50,6 +50,7 @@ mesh terminology, these parts are called `elements`.
 * Devices in a Bluetooth mesh network each have a set of independent `State` values, representing some condition of the device.
 * `Model` defines the specification on Device State, State Transitions, Messages and other associated behaviours.
 
+
 ### Mesh Network Example
 ![Bluetooth Mesh](https://github.com/seesiva/IoT/blob/master/Images/Bluetooth%20Wireless%20Mesh.png)
 
