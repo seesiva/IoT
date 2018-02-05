@@ -43,11 +43,32 @@ Consumer Goods, Home Goods, Kitchen appliances
 14. Does the data collected from our product has value interms of revenue generation or creation ?
 15. What are the competitors doing in this space?
 16. Does adding AI capability would improve our competitiveness ?
+17. What is the source of data ?
+18. What are the different set of context on which the data will be explored? (May be persona)
+19. What are the potential use cases of the data ingested ?
+
+##  Business requirements based on improving customer experience - Furniture domain specific - Chairs
+1. Do we require to understand the product usage behaviour ?
+2. Does the product behaviour needs to be understood based on the (light, relative humidity and
+temperature) ?
+3. Do we need to identify product abuse or careless handling ?
+4. Do we need to understanding the underlying environment on which the product is put to use ?
+5. Does it calls for warranty issue understanding and validating the same ?
+6. Do we need to take care of the maximum weight factor and log the data accordingly to understand the customer experience based on it ?
+7. Identification of mechanism to determine the durability of the chair ?
+8. Do we need to look at sensors for  tracking product against biopredation?
+9. Do we need to look at sensors and data points for tracking product against Insect infestation?
+10. Do we need to handle situation for preventive maintenance?
+11. What are the metric which needs to improved with the help of IoT?
+
 
 ## Functional Requirements
 
+## Data Requirements
 
-## Choice of Protocols
+## UX Requirements
+
+## Protocols Requirements
 * MQTT
 * CoAP
 
@@ -56,14 +77,17 @@ Consumer Goods, Home Goods, Kitchen appliances
 * Cellular
 * LORA
 * WiFi
-* 
 
 ## Security Requirements
 * Encrypted logins and passwords 
 * Tamper proof
 * Closed connections
 * Privacy controls
+
 ## Standards
 
 ## References
 https://community.particle.io/t/exposing-data-to-cloud-project-architecture/12189
+
+## Understanding Metrics
+1. Sensor to products
