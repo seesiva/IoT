@@ -2,6 +2,7 @@
 
 ## Compliance Levels
 | Compliance Class  | Integrity | Availability  | Confidentiality|
+|-------------------|-----------|---------------|----------------|
 | Class 0           | Basic     |   Basic       |   Basic        |
 | Class 1           | Medium    |   Medium      |   Basic        |
 | Class 2           | Medium    |   High        |   Medium       |
