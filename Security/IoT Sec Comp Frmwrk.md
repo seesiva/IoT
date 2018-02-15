@@ -1,5 +1,9 @@
 # IoT Security Compliance Framework
 
+## Reference
+
+* https://iotsecurityfoundation.org/wp-content/uploads/2016/12/IoT-Security-Compliance-Framework.pdf
+
 ## Compliance Levels
 | Compliance Class  | Integrity | Availability  | Confidentiality|
 |-------------------|-----------|---------------|----------------|
