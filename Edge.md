@@ -7,3 +7,5 @@ Edge capabilities to be evaluated in an IoT Platform
 * Deploy IoT solutions from Cloud to Edge
 * Managed devices centrally from the cloud
 * Operate offline
+* Enable real-time decisions
+* Reduce bandwidth costs
