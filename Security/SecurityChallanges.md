@@ -6,4 +6,3 @@
 * Data Encryption during communication
 * Authenticity of the data being communicated to and from an IoT device
 * Side-channel attack is any attack based on information gained from the physical IoT implementation
-* 
